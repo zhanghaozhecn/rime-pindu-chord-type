@@ -1,0 +1,24 @@
+---
+name: pdbj
+version: 20241116
+use_preset_vocabulary: false
+sort: original
+import_tables:
+  - pdbj.char
+  - pdbj.word
+columns:
+  - text
+  - code
+  - stem
+encoder:
+  exclude_patterns:
+    - '^(Z.Z)$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbAcBaBbBc"
+    - length_equal: 3
+      formula: "AaAbAcBaBbBdCaCbCc"
+    - length_in_range: [4,20]
+      formula: "AaAbAcBaBbBdZaZbZc"
+...
+#用户词
