@@ -1,6 +1,6 @@
 ---
 name: pdbj.char
-version: 20241221
+version: 20241224
 use_preset_vocabulary: false
 sort: original
 columns:
@@ -12088,7 +12088,7 @@ columns:
 姚	bPZYZZ	bPZa
 坟	jrZMZZ	jrZa
 耸	PDZAZZ	PDZa
-雁	bhZuZZ	bhZa
+雁	bhZZgZ	bhZa
 襟	dlZZlZ	dlZa
 扳	htZZfZ	htZa
 揩	zRZZfZ	zRZa
