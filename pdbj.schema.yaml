@@ -24,7 +24,7 @@ engine:
     - ascii_composer
     - recognizer
     - chord_composer
-    - lua_processor@topup_processor #上屏处理器，实现顶屏规则
+    - lua_processor@*pdbj.topup_processor #上屏处理器，实现顶屏/清屏规则
     - speller
     - key_binder
     - punctuator
@@ -38,12 +38,16 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - lua_translator@*pdbj.time
+    - lua_translator@*pdbj.jisuanqi
     - punct_translator
     - table_translator
   filters:
+    - reverse_lookup_filter@reverse_lookup
+    - lua_filter@*pdbj.assembly
     - simplifier
     - uniquifier
-    - lua_filter@clear_filter #上屏处理器，实现顶屏规则
+    - lua_filter@*pdbj.clear_filter
 simplifier:
   option_name: zh_simp_s2t
   opencc_config: s2t.json
@@ -1460,3 +1464,11 @@ key_binder:
 recognizer:
   patterns:
     punct: '^\\([0-9]0?|[A-Za-z]+)?$'
+    expression: "^=.*$"
+
+
+reverse_lookup:
+  overwrite_comment: true
+  comment_format:
+    - "xform/~//"
+  tags: [extra]
