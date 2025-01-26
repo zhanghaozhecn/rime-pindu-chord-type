@@ -1,7 +1,7 @@
 schema:
   schema_id: pdbj
   name: 拼读并击
-  version: 20241215
+  version: 20250126
   author:
     - 张皓哲（576440085@qq.com）
   description:
@@ -123,12 +123,12 @@ chord_composer:
     - xform/^[^#].*//
     - xform/#//
     - xform/ZZa/ /
-    - xform/ZpZ/;/
-    - xform/ZqZ/,/
-    - xform/ZrZ/./
-    - xform ZsZ / 
-    - xform/ZBZ/[/
-    - xform/ZCZ/]/
+    - xform/ZdZ/;/
+    - xform/ZlZ/,/
+    - xform/ZmZ/./
+    - xform ZnZ / 
+    - xform/ZxZ/[/
+    - xform/ZyZ/]/
   prompt_format:
     - xform/.*//
 translator:
