@@ -1,6 +1,6 @@
 ---
 name: pdbj.char
-version: 20250126
+version: 20250127
 use_preset_vocabulary: false
 sort: original
 columns:
@@ -11058,7 +11058,7 @@ columns:
 置	eaZJZZ	eaZa
 店	yhZkZZ	yhZa
 桌	ubZZcZ	ubZa
-垂	HJZJZZ	HJZa
+垂	HJZcZZ	HJZa
 耐	BsZVZZ	BsZa
 思	JdZfZZ	JdZa
 显	fxZvZZ	fxZa
@@ -11661,7 +11661,7 @@ columns:
 楚	HcZZcZ	HcZa
 繁	jnZJZZ	jnZa
 伞	JxZvZZ	JxZa
-粤	qeZGZZ	qeZa
+粤	qeZTZZ	qeZa
 贫	UrZhZZ	UrZa
 豆	azZnZZ	azZa
 渡	xaZZeZ	xaZa
@@ -12044,7 +12044,7 @@ columns:
 默	leZIZZ	leZa
 灾	iRZrZZ	iRZa
 签	ptZuZZ	ptZa
-亭	FjZGZZ	FjZa
+亭	FjZsZZ	FjZa
 贮	uaZhZZ	uaZa
 冤	qtZGZZ	qtZa
 眯	GdZlZZ	GdZa
@@ -12297,7 +12297,7 @@ columns:
 匣	fOZTZZ	fOZa
 窘	ODZNZZ	ODZa
 撮	VbZZbZ	VbZa
-乍	euZJZZ	euZa
+乍	euZhZZ	euZa
 控	TpZZbZ	TpZa
 污	gdZZeZ	gdZa
 豪	nPZcZZ	nPZa
@@ -12823,7 +12823,7 @@ columns:
 敞	wFZQZZ	wFZa
 哺	hcZzZZ	hcZa
 浦	QcZZeZ	QcZa
-卿	pgZdZZ	pgZa
+卿	pgZNZZ	pgZa
 勘	ztZmZZ	ztZa
 躁	iqZEZZ	iqZa
 蛛	udZHZZ	udZa
@@ -13255,7 +13255,7 @@ columns:
 诡	kKZZiZ	kKZa
 诧	wuZZiZ	wuZa
 峨	AiZZkZ	AiZa
-龚	kgZhZZ	kgZa
+龚	kgZLZZ	kgZa
 嗣	JaZzZZ	JaZa
 衙	bOZfZZ	bOZa
 虔	pnZtZZ	pnZa
@@ -13799,7 +13799,7 @@ columns:
 炔	IbZtZZ	IbZa
 倏	DdZIZZ	DdZa
 懦	XeZZoZ	XeZa
-臻	elZMZZ	elZa
+臻	elZJZZ	elZa
 鹦	bgZKZZ	bgZa
 嗖	JMZzZZ	JMZa
 犊	xfZKZZ	xfZa
@@ -13964,7 +13964,7 @@ columns:
 粽	EpZGZZ	EpZa
 汐	fdZZeZ	fdZa
 豌	gtZaZZ	gtZa
-睿	SmZlZZ	SmZa
+睿	SmZhZZ	SmZa
 驿	baZlZZ	baZa
 嵩	PgZZkZ	PgZa
 忖	VGZZoZ	VGZa
@@ -14043,7 +14043,7 @@ columns:
 钵	hbZZgZ	hbZa
 诅	EcZZiZ	EcZa
 缨	bgZZhZ	bgZa
-亘	rBZnZZ	rBZa
+亘	rBZvZZ	rBZa
 窠	zbZNZZ	zbZa
 蚪	awZHZZ	awZa
 伫	uaZZaZ	uaZa
@@ -14110,7 +14110,7 @@ columns:
 圩	gJZMZZ	gJZa
 蚜	bOZHZZ	bOZa
 咿	bdZzZZ	bdZa
-麸	jdZQZZ	jdZa
+麸	jdZJZZ	jdZa
 酞	ssZbZZ	ssZa
 恤	NaZZoZ	NaZa
 谤	hvZZiZ	hvZa
@@ -14282,7 +14282,7 @@ columns:
 狰	egZIZZ	egZa
 褴	onZbZZ	onZa
 忑	seZfZZ	seZa
-爨	VhZtZZ	VhZa
+爨	VhZhZZ	VhZa
 礴	hiZZjZ	hiZa
 牦	lPZKZZ	lPZa
 亟	dfZzZZ	dfZa
@@ -14370,7 +14370,7 @@ columns:
 懑	lBZfZZ	lBZa
 濛	ljZZeZ	ljZa
 敕	waZQZZ	waZa
-孰	DfZiZZ	DfZa
+孰	DfZsZZ	DfZa
 弩	XcZkZZ	XcZa
 夔	TJZhZZ	TJZa
 幡	jtZdZZ	jtZa
@@ -14630,7 +14630,7 @@ columns:
 埚	kbZMZZ	kbZa
 壬	vrZcZZ	vrZa
 钗	wRZZgZ	wRZa
-懿	baZfZZ	baZa
+懿	baZCZZ	baZa
 牒	yiZUZZ	yiZa
 祗	edZcZZ	edZa
 杞	pcZZcZ	pcZa
@@ -14729,7 +14729,7 @@ columns:
 擀	rxZZbZ	rxZa
 桕	dzZZcZ	dzZa
 梿	mnZZcZ	mnZa
-癸	kKZaZZ	kKZa
+癸	kKZAZZ	kKZa
 浚	OBZZeZ	OBZa
 浚	NBZZeZ	NBZa
 劾	niZmZZ	niZa
@@ -14745,7 +14745,7 @@ columns:
 黏	KnZnZZ	KnZa
 镉	riZZgZ	riZa
 赊	cbZhZZ	cbZa
-颦	UrZcZZ	UrZa
+颦	UrZhZZ	UrZa
 陲	HJZAZZ	HJZa
 谲	OiZZiZ	OiZa
 痣	eaZCZZ	eaZa
@@ -15034,7 +15034,7 @@ columns:
 棂	mjZZcZ	mjZa
 鹂	mfZKZZ	mfZa
 唁	bhZzZZ	bhZa
-靛	yhZZfZ	yhZa
+靛	yhZJZZ	yhZa
 绔	TaZZhZ	TaZa
 烩	tmZtZZ	tmZa
 轭	AeZwZZ	AeZa
@@ -15242,7 +15242,7 @@ columns:
 来	oCZhZZ	oCZa
 又	bzZeZZ	bzZa
 年	KnZcZZ	KnZa
-到	aqZMZZ	aqZa
+到	aqZJZZ	aqZa
 它	soZrZZ	soZa
 大	auZnZZ	auZa
 等	aDZuZZ	aDZa
@@ -15363,7 +15363,7 @@ columns:
 经	dgZZhZ	dgZa
 场	wFZMZZ	wFZa
 块	TsZMZZ	TsZa
-书	DdZyZZ	DdZa
+书	DdZeZZ	DdZa
 些	fbZAZZ	fbZa
 字	iaZrZZ	iaZa
 往	gFZwZZ	gFZa
@@ -15385,7 +15385,7 @@ columns:
 别	CiZaZZ	CiZa
 口	zwZDZZ	zwZa
 段	xhZDZZ	xhZa
-望	gvZZfZ	gvZa
+望	gvZsZZ	gvZa
 气	paZUZZ	paZa
 买	lQZaZZ	lQZa
 刚	ryZaZZ	ryZa
@@ -15578,7 +15578,7 @@ columns:
 欲	qaZpZZ	qaZa
 语	qcZZiZ	qcZa
 改	rQZQZZ	rQZa
-旁	QEZGZZ	QEZa
+旁	QEZsZZ	QEZa
 族	EfZcZZ	EfZa
 枪	pyZZcZ	pyZa
 套	sqZaZZ	sqZa
@@ -15633,6 +15633,7 @@ columns:
 抽	wMZZbZ	wMZa
 解	dkZdZZ	dkZa
 鸟	KAZUZZ	KAZa
+丝	JdZeZZ	JdZa
 洗	fcZZeZ	fcZa
 腰	bLZZfZ	bLZa
 敌	yfZcZZ	yfZa
@@ -15661,7 +15662,7 @@ columns:
 产	wxZmZZ	wxZa
 样	bvZZcZ	bvZa
 挑	FLZZbZ	FLZa
-甚	cBZhZZ	cBZa
+甚	cBZLZZ	cBZa
 酸	PtZbZZ	PtZa
 房	jEZtZZ	jEZa
 害	nsZrZZ	nsZa
@@ -15837,7 +15838,7 @@ columns:
 乘	cpZnZZ	cpZa
 稍	cqZnZZ	cqZa
 色	cQZaZZ	cQZa
-甚	crZhZZ	crZa
+甚	crZLZZ	crZa
 沙	cuZZeZ	cuZa
 汤	cyZZeZ	cyZa
 泌	CaZZeZ	CaZa
@@ -16462,7 +16463,7 @@ columns:
 阕	IeZlZZ	IeZa
 魇	bxZkZZ	bxZa
 槭	paZZcZ	paZa
-亳	hiZGZZ	hiZa
+亳	hiZsZZ	hiZa
 鲇	KnZqZZ	KnZa
 逖	FaZiZZ	FaZa
 狙	OdZIZZ	OdZa
@@ -16537,7 +16538,7 @@ columns:
 徵	ecZwZZ	ecZa
 啵	hbZzZZ	hbZa
 宸	wrZrZZ	wrZa
-蠲	OtZGZZ	OtZa
+蠲	OtZhZZ	OtZa
 粲	LhZGZZ	LhZa
 佞	KpZYZZ	KpZa
 鬟	tnZCZZ	tnZa
@@ -17155,7 +17156,7 @@ columns:
 诼	uiZZiZ	uiZa
 榱	VNZZcZ	VNZa
 鄣	eyZAZZ	eyZa
-喾	TaZzZZ	TaZa
+喾	TaZMZZ	TaZa
 萁	pfZLZZ	pfZa
 薜	CaZLZZ	CaZa
 饩	faZZjZ	faZa
@@ -17206,7 +17207,7 @@ columns:
 郃	niZAZZ	niZa
 泠	mjZZeZ	mjZa
 郾	bxZAZZ	bxZa
-纛	aqZfZZ	aqZa
+纛	aqZTZZ	aqZa
 圉	qcZTZZ	qcZa
 蟊	lPZHZZ	lPZa
 醵	OaZbZZ	OaZa
@@ -17339,7 +17340,7 @@ columns:
 蛘	bEZHZZ	bEZa
 遘	rzZiZZ	rzZa
 鞲	rMZrZZ	rMZa
-磔	eiZZcZ	eiZa
+磔	eiZfZZ	eiZa
 姒	JaZYZZ	JaZa
 缑	rMZZhZ	rMZa
 赟	qlZhZZ	qlZa
@@ -17624,7 +17625,7 @@ columns:
 轺	bPZwZZ	bPZa
 泫	NhZZeZ	NhZa
 榍	feZZcZ	feZa
-麹	IdZQZZ	IdZa
+麹	IdZJZZ	IdZa
 疴	zbZCZZ	zbZa
 舭	CcZeZZ	CcZa
 貊	leZeZZ	leZa
@@ -17786,8 +17787,8 @@ columns:
 辀	eMZwZZ	eMZa
 鲱	jNZqZZ	jNZa
 嶝	apZZkZ	apZa
-葚	cBZLZZ	cBZa
 葚	vBZLZZ	vBZa
+葚	cBZLZZ	cBZa
 酾	cdZbZZ	cdZa
 酾	cRZbZZ	cRZa
 缊	qBZZhZ	qBZa
@@ -18405,7 +18406,7 @@ columns:
 簕	oeZuZZ	oeZa
 簃	bfZuZZ	bfZa
 藠	dqZLZZ	dqZa
-戤	rsZGZZ	rsZa
+戤	rsZbZZ	rsZa
 蟏	fLZHZZ	fLZa
 鳒	dtZqZZ	dtZa
 薢	feZLZZ	feZa
@@ -18745,14 +18746,14 @@ columns:
 焜	TlZtZZ	TlZa
 亶	ahZsZZ	ahZa
 亶	axZsZZ	axZa
-嚭	UcZzZZ	UcZa
+嚭	UcZcZZ	UcZa
 瀼	vEZZeZ	vEZa
 瀼	vvZZeZ	vvZa
 婼	HeZYZZ	HeZa
 婼	SeZYZZ	SeZa
 傕	OiZZaZ	OiZa
 椀	gxZZcZ	gxZa
-叚	fOZbZZ	fOZa
+叚	fOZhZZ	fOZa
 嬬	SfZYZZ	SfZa
 埌	ovZMZZ	ovZa
 廋	JMZkZZ	JMZa
@@ -19193,7 +19194,7 @@ columns:
 玼	LdZgZZ	LdZa
 挓	eoZZbZ	eoZa
 憭	mAZZoZ	mAZa
-侴	wwZaZZ	wwZa
+侴	wwZvZZ	wwZa
 旿	gcZvZZ	gcZa
 堉	qaZMZZ	qaZa
 垿	NaZMZZ	NaZa
@@ -19848,7 +19849,6 @@ columns:
 弼	CaZkZa	CaZa
 恺	zQZZoa	zQZa
 嘶	JdZzZa	JdZa
-龚	kgZhZa	kgZa
 薪	flZLZa	flZa
 祠	LfZcZa	LfZa
 钳	pnZZga	pnZa
@@ -19926,7 +19926,6 @@ columns:
 侥	dAZZaa	dAZa
 貂	yLZeZa	yLZa
 唆	PbZzZa	PbZa
-麸	jdZQZa	jdZa
 俐	maZZaa	maZa
 聆	mjZAZa	mjZa
 惬	peZZoa	peZa
@@ -19989,7 +19988,7 @@ columns:
 迤	bfZiZa	bfZa
 涪	jfZZea	jfZa
 蛆	IdZHZa	IdZa
-懿	baZfZa	baZa
+懿	baZCZa	baZa
 濂	mnZZea	mnZa
 芩	prZLZa	prZa
 啻	waZzZa	waZa
@@ -19999,6 +19998,7 @@ columns:
 姣	dLZYZa	dLZa
 悒	baZZoa	baZa
 浚	NBZZea	NBZa
+颦	UrZhZa	UrZa
 谲	OiZZia	OiZa
 佚	baZZaa	baZa
 馥	jaZfZa	jaZa
@@ -20147,7 +20147,6 @@ columns:
 镳	CLZZga	CLZa
 嵴	dfZZka	dfZa
 阚	zhZlZa	zhZa
-癔	baZCZa	baZa
 罔	gFZTZa	gFZa
 蠓	lDZHZa	lDZa
 歆	flZpZa	flZa
@@ -20401,6 +20400,7 @@ columns:
 磻	QnZZja	QnZa
 蒹	dtZLZa	dtZa
 鲱	jNZqZa	jNZa
+葚	cBZLZa	cBZa
 黹	ecZbZa	ecZa
 觿	fdZdZa	fdZa
 芃	QjZLZa	QjZa
@@ -20511,6 +20511,7 @@ columns:
 荁	tnZLZa	tnZa
 骣	wxZlZa	wxZa
 蹾	xlZEZa	xlZa
+戤	rsZbZa	rsZa
 蟏	fLZHZa	fLZa
 鳒	dtZqZa	dtZa
 薢	feZLZa	feZa
@@ -20682,7 +20683,6 @@ columns:
 媖	bgZYZa	bgZa
 歅	blZpZa	blZa
 疁	mIZFZa	mIZa
-侴	wwZaZa	wwZa
 堉	qaZMZa	qaZa
 煴	qBZtZa	qBZa
 嚚	brZzZa	brZa
