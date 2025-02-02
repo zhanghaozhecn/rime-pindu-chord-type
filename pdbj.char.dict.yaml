@@ -1,6 +1,6 @@
 ---
 name: pdbj.char
-version: 20250131
+version: 20250203
 use_preset_vocabulary: false
 sort: original
 columns:
@@ -315,7 +315,7 @@ columns:
 非	jNZ	jNZa
 请	pDZ	pDZa
 干	rhZ	rhZa
-站	ehZ	ehZa
+占	ehZ	ehZa
 钱	pnZ	pnZa
 处	HaZ	HaZa
 部	haZ	haZa
@@ -334,7 +334,7 @@ columns:
 场	wFZ	wFZa
 块	TsZ	TsZa
 书	DdZ	DdZa
-占	ehZ	ehZa
+站	ehZ	ehZa
 些	fbZ	fbZa
 字	iaZ	iaZa
 近	dBZ	dBZa
@@ -9479,7 +9479,7 @@ columns:
 非	jNa	jNZa
 请	pDa	pDZa
 干	rha	rhZa
-站	eha	ehZa
+占	eha	ehZa
 处	Haa	HaZa
 部	haa	haZa
 您	Kra	KrZa
