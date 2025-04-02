@@ -1,7 +1,7 @@
 schema:
   schema_id: pdbj
   name: 拼读并击
-  version: 20250316
+  version: 20250401
   author:
     - 张皓哲（576440085@qq.com）
   description:
@@ -53,9 +53,9 @@ simplifier:
   opencc_config: s2t.json
 speller:
   auto_select: true
-  #单手|一击带空格|第二击单字次选
-  auto_select_pattern: '^(.Z.|Z..|..a|.....a)$'
-  max_code_length: 6
+  #单手|一击带空格|第二击单字带空格
+  auto_select_pattern: '^(.Z.|Z..|..a|....Za|...Z.a)$'
+  #max_code_length: 6
   alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
   algebra:
 chord_composer:
