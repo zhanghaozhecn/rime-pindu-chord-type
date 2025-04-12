@@ -1,11 +1,12 @@
 ---
 name: pdbj
-version: 20241116
+version: 20250412
 use_preset_vocabulary: false
 sort: original
 import_tables:
   - pdbj.char
   - pdbj.word
+  - pdbj.user
 columns:
   - text
   - code
@@ -21,4 +22,3 @@ encoder:
     - length_in_range: [4,20]
       formula: "AaAbAcBaBbBdZaZbZc"
 ...
-#用户词

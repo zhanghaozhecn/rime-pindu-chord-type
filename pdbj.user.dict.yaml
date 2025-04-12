@@ -1,0 +1,11 @@
+---
+name: pdbj.user
+version: 20250412
+use_preset_vocabulary: false
+sort: original
+columns:
+  - text
+  - code
+  - stem
+...
+#自定义词语写在下面
